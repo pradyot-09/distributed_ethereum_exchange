@@ -1,7 +1,5 @@
 # Ethereum Distributed Token Exchange
 
-This repository is part of the [_Ethereum Developer Masterclass: ICO and Token Exchange with Solidity_](https://www.udemy.com/ethereum-masterclass/?couponCode=VOMTOMWEBSITE10) course on Udemy. The Token-Exchange can be tested with MetaMask and the Rinkeby Test-Net under [https://tomw1808.github.io/distributed_exchange_truffle_class_3/index.html](https://tomw1808.github.io/distributed_exchange_truffle_class_3/index.html)
-
 ![distributed token exchange splash screen](exchange_animation.gif "The Distributed Token Exchange")
 
 The Exchange Smart-Contract has 3 functions:
@@ -34,36 +32,6 @@ In order to work with the smart contracts and for the course you need
 8. On windows eventually the Git-Bash
 
 
-# Knowlegde prior this course
-
-* Read "Solidity in Depth" and "Solidity Examples" from the Solidity docs
-* Know what is a list and a linked list. A short intro will be given, but our DataStructures use linked lists.
-
-# License
-The source-code provided in this Repository shall be licensed under the terms of the
-
-MIT License
-
-Copyright (c) [2017] [Thomas Wiesner]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
 # Just interested in the code?
 
 1. Download necessary tools
@@ -85,4 +53,4 @@ npm run dev
 
 
 # About me
-If you are interested about my work, what I do and where you can get more courses, material and information, checkout my blog: [https://vomtom.at](https://vomtom.at)
+If you are interested about my work, what I do and where you can get more courses, material and information, checkout my blog: [http://paddi.ml](http://paddi.ml)
